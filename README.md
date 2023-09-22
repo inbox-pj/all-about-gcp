@@ -5,6 +5,10 @@
 ## Table of Contents
 - [About](#about)
 - [Getting Started](#getting-started)
+  -   [Regions](#regions)
+  -   [Zones](#zones)
+  -   [Compute Engine](#compute-engine)
+- [Glossary](#glossary)
 
 
 ## About
