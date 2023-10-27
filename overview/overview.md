@@ -6,6 +6,7 @@
     -   [Regions](#regions)
     -   [Zones](#zones)
     -   [Compute Engine](#compute-engine)
+-   [Back to Menu] (./README.md/#all-about-gcp)
 
 ## About
 Course will cover the key elements on GCP.
