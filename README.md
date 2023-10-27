@@ -4,10 +4,7 @@
 
 ## Table of Contents
 - [About](#about)
-- [Getting Started](#getting-started)
-  -   [Regions](#regions)
-  -   [Zones](#zones)
-  -   [Compute Engine](#compute-engine)
+- [Getting Started](./overview/GETTING_STARTED#getting-started)
 - [Glossary](#glossary)
 
 
