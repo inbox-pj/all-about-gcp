@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [About](#about)
-- [Getting Started](./overview/GETTING_STARTED#getting-started)
+- [Getting Started](./overview/overview.md#getting-started)
 - [Glossary](#glossary)
 
 
