@@ -69,5 +69,6 @@ Course will cover the key elements on GCP.
   - Load Balancer to VM instance: HTTP/TCP
 - Choosing Load Balancer
 <img width="1144" alt="image" src="https://github.com/inbox-pj/all-about-gcp/assets/53929164/14c374f1-c606-48d6-8d67-b5bce4c6aea6">
+
 - Features
 <img width="906" alt="image" src="https://github.com/inbox-pj/all-about-gcp/assets/53929164/db9d4146-d83a-41e7-b098-5b1f786e5211">
