@@ -6,6 +6,8 @@
     -   [Regions](#regions)
     -   [Zones](#zones)
     -   [Compute Engine](#compute-engine)
+    -   [Instance Group](#instance-group)
+    -   [Cloud Load Balancing](#cloud-load-balancing)
 -   [Back to Menu](../README.md/#all-about-gcp)
 
 ## About
@@ -42,6 +44,30 @@ Course will cover the key elements on GCP.
     - Instance Template
     - Custom Image
 
+### Instance Group
+- Group of VM instances managed as a single entity
+- Types of Instance Groups
+  - Managed
+    - Identical VMs created using a template
+    - Auto-scaling, auto healing, load balancing and managed releases
+    - Supports Rolling updates and Canary Deployment
+    - Instance Template is mandatory to create MIG
+    - Configure auto-scaling to automatically adjust number of instances based on load:
+      - _Minimum_ number of instances
+      - _Maximum_ number of instances
+      - _Matrices_:
+        - cool-down period - How long to wait before looking at auto-scaling metrics again?
+        - Scale in Controls - Prevent a sudden drop in no of VM instances
+  - Unmanaged
 
 
-
+### Cloud Load Balancing
+- Client to Load Balancer - HTTPS
+- Load Balancer to VM instance - HTTP/HTTPS
+- SSL/TLS Termination/Offloading
+  - Client to Load Balancer: HTTPS/TLS
+  - Load Balancer to VM instance: HTTP/TCP
+- Choosing Load Balancer
+<img width="1144" alt="image" src="https://github.com/inbox-pj/all-about-gcp/assets/53929164/14c374f1-c606-48d6-8d67-b5bce4c6aea6">
+- Features
+<img width="906" alt="image" src="https://github.com/inbox-pj/all-about-gcp/assets/53929164/db9d4146-d83a-41e7-b098-5b1f786e5211">
